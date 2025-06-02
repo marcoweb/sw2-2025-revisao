@@ -1,0 +1,4 @@
+@url = https://obscure-invention-gx4ppj69v6cvw4q-3000.app.github.dev
+
+GET {{url}}/api/teste
+
